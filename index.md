@@ -23,13 +23,13 @@ layout: default
 
 Welcome to the Data Privacy website. 
 
-The Apache Software Foundation is committed to protect the privacy
-of their Members, Committers and Users.
+The Apache Software Foundation is committed to protecting the privacy
+of its Members, Committers and Users.
 
 ## Privacy related questions
 
 If you have questions related to privacy at 
-The Apache Software Foundation which are not of confidential
+The Apache Software Foundation which are not of a confidential
 nature, feel free to ask at our (archived) mailing list:
 
 privacy@apache.org
@@ -37,12 +37,12 @@ privacy@apache.org
 If you have confidential questions, please reach out to
 V.P., Data Privacy directly:
 
-vp-privacy@apache.org
+`vp-privacy@apache.org`
 
 ## Privacy complaints / Removal requests
 
 If you have complaints aligning with the GDPR or CCPA,
 please reach out to:
 
-vp-privacy@apache.org
+`vp-privacy@apache.org`
 
